@@ -1,7 +1,6 @@
 {
-  "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
-  "repository": "https://github.com/IOTenthusiast/apiaiwebhook170317",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["api.ai", "natural language"]
+  "name": "MQTT demonstration",
+  "description": "MQTT IoT protocol demonstration",
+  "repository": "https://github.com/CunningLearner/mqttt",
+  "keywords": ["MQTT", "IoT Protocol"]
 }
